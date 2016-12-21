@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Alpha"
+    Link="/Content/Alpha.htm" />
+  <TocEntry
+    Title="Bravo"
+    Link="/Content/Bravo.htm" />
+  <TocEntry
+    Title="Charlie"
+    Link="/Content/Charlie.htm" />
+  <TocEntry
+    Title="Delta"
+    Link="/Content/Delta.htm" />
+</CatapultToc>

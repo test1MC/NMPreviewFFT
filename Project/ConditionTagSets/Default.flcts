@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    Comment=""
+    Name="ExcludeMe"
+    BackgroundColor="#dc143c"
+    OriginalName="ExcludeMe" />
+  <ConditionTag
+    Comment=""
+    Name="IncludeMe"
+    BackgroundColor="#7fff00"
+    OriginalName="IncludeMe" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="Tag1"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#6495ed"
+    Name="Tag2"
+    Comment="" />
+</CatapultConditionTagSet>
